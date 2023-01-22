@@ -1,3 +1,7 @@
 My name is Danial Saeed
 This is my git testing
+<<<<<<< HEAD
 Testing Git Issues
+=======
+This is commit from CentOS VM
+>>>>>>> ec1d894b4143e1fb611a768804f9d14596a11542
